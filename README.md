@@ -12,7 +12,7 @@ pod install
 ```
 
 
-##To run the app
+## To run the app
 ```bash
 # run with ios
 npx react-native run-ios
