@@ -1,17 +1,25 @@
 # HotelReservation
-
-To Start
-# install dependencies
+Hotel Reservation application
+## Installation
+```bash
 npm install
+```
 
-# cd to ios directory with command: cd ios
+pod install for iOS. Go to ios directory and pod install
+
+```bash
 pod install
+```
 
-To run the app
+
+##To run the app
+```bash
 # run with ios
 npx react-native run-ios
+```
 
+```bash
 # run with android
 npx react-native run-android
-
+```
 
