@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.pngkit.com/png/detail/71-716950_the-night-sky-of-the-city-night-city.png",
+    "title":"Phnom Penh",
+    "sub": "2km away"
+  },
+  {
+    "id": 2,
+    "image": "https://cdn3.vectorstock.com/i/1000x1000/18/92/beautiful-sunset-view-background-in-the-beach-vector-22271892.jpg",
+    "title":"Preh Seihaknu Vill",
+    "sub": "200km away"
+  },
+  {
+    "id": 3,
+    "image": "https://previews.123rf.com/images/goodshotalan/goodshotalan1111/goodshotalan111100036/11177311-vector-illustration-of-french-cafe-scene.jpg",
+    "title":"Kompot",
+    "sub": "100km away"
+  },
+  {
+    "id": 4,
+    "image": "https://st3.depositphotos.com/8343092/33043/v/600/depositphotos_330436772-stock-illustration-buddha-temple-in-angkor-wat.jpg",
+    "title":"Seim Reap",
+    "sub": "290km away"
+  },
+  {
+    "id": 5,
+    "image": "https://cdn2.kohrongre.com/wp-content/uploads/2020/07/seaside-beachfront-land-for-rent-in-Koh-Rong-4.jpg",
+    "title":"Koh Kong",
+    "sub": "322km away"
+  }
+]
